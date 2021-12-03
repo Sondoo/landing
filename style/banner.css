@@ -1,0 +1,7 @@
+.banner {
+	background-image: linear-gradient(90deg, rgba(255,255,255,0.22740434064250703) 0%, rgba(242,107,107,0.557936553527661) 100%) ,url(../image/banner.jpg);
+	height: 65vh ;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+}

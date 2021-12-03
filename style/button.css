@@ -1,0 +1,14 @@
+h1{
+   color: red ;
+}
+
+.btn {
+	background-color: white;
+	padding: 16px;
+	border-radius: 10px;
+	text-align: center;
+	justify-self:center;
+	margin: 24px auto;
+display: block;
+width: 135px;
+}
